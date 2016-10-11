@@ -17,9 +17,7 @@
     "conversational"
   ],
   "dependencies": {
-    "botkit": "0.4.0",
-    "express": "^4.14.0",
-    "twilio": "^2.11.0"
+    "botkit-sms": "^1.1.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
